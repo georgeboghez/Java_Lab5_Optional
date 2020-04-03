@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ro.info.uaic.georgeboghez"},{"l":"ro.info.uaic.georgeboghez.CatalogAndDocuments"},{"l":"ro.info.uaic.georgeboghez.Commands"},{"l":"ro.info.uaic.georgeboghez.Exceptions"}]
