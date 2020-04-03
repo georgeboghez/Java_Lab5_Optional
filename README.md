@@ -6,7 +6,7 @@ Write an application that can manage a catalog of documents. An entry in this ca
 A document may be located using a path in the local file system or a link to an external URL. Each document has a unique ID, a name and may have additional tags, which are pairs name-value. Example of tags may be title, author, year, publishingDate, etc.
 The main specifications of the application are:
 
-# Compulsory
+## Compulsory
 - Create an object-oriented model of the problem. You should have at least the following classes: Catalog, Document. Consider creating a class responsible with external operations regarding a catalog.
 - Implement the following methods:
 1. save: saves the catalog to an external file, using object serialization;
